@@ -1,0 +1,51 @@
+Ásia : China	
+Ásia : Índia
+Ásia : Indonésia	
+Ásia : Paquistão	
+Ásia : Bangladesh	
+Ásia : Japão	
+Ásia : Filipinas	
+Ásia : Vietnã	
+Ásia : Irã	
+Ásia : Tailândia
+América do Norte : Estados Unidos da América
+América do Norte : México
+América do Norte : Groenlândia	
+América do Norte : Canadá
+América do central : Guatemala	
+América do central : Cuba	
+América do central : Honduras	
+América do central : El Salvador	
+América do central : Nicarágua
+América do sul : Brasil	
+América do sul : Argentina	
+América do sul : Colômbia	
+América do sul : Venezuela	
+América do sul : Peru
+Africa : Nigéria	
+Africa : Etiópia	
+Africa : Egito	
+Africa : República Democrática do Congo	
+Africa : África do Sul	
+Africa : Tanzânia	
+Africa : Quênia	
+Africa : Argélia	
+Africa : Sudão	
+Africa : Uganda
+Antártida : 
+Europa : Rússia	
+Europa : Alemanha	
+Europa : Turquia	
+Europa : França	
+Europa : Reino Unido	
+Europa : Itália	
+Europa : Espanha	
+Europa : Ucrânia	
+Europa : Polônia
+Europa : Portugal
+Europa : Romênia
+Oceania : Austrália	
+Oceania : Papua-Nova Guiné	
+Oceania : Nova Zelândia	
+Oceania : Fiji	
+Oceania : Ilhas Salomão
